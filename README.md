@@ -1,3 +1,4 @@
+Coding by Julika Pradhan
 # Stock-Exchange-Data-Basic-Analytics
 The objective of the stock exchange data is to predict closing amount based on historical
 data. The data set contains 57 years of stock by 14 stock market indexes. The indexes 
